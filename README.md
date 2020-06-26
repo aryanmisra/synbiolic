@@ -1,6 +1,10 @@
-## Synbiolic Platform - Unlocking Drug Discovery with AI
+# Synbiolic Platform - Unlocking Drug Discovery with AI
 
 Microsoft Imagine Cup Americas Regional Finalist & Runner-Up
+
+## Video Demo
+
+[Link](https://youtu.be/Kt6j1dJpIDA)
 
 ## Acknowledgements
 
